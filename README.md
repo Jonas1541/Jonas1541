@@ -21,9 +21,14 @@
 <br/>
 
 <h3 align="center">📊 GitHub Stats & Languages</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jonas1541/Jonas1541/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Stats" width="48%" />
-  <img src="https://raw.githubusercontent.com/Jonas1541/Jonas1541/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Jonas1541/Jonas1541/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Activity Graph" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jonas1541/Jonas1541/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Details" width="44%" />
+  <img src="https://raw.githubusercontent.com/Jonas1541/Jonas1541/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" width="44%" />
 </p>
 
 <br/>
