@@ -1,12 +1,13 @@
 <h1 align="center">Hi there, I'm Jonas! 👋</h1>
 
-<h3 align="center">Mid-Level Java Software Engineer | Building deterministic systems across all worldlines.</h3>
+<h3 align="center">Mid-Level Java Software Engineer | Building scalable backends across all worldlines.</h3>
 
 <br/>
 
 <p align="center">
-  Engenheiro de Software focado em arquitetura de baixo overhead (SOLID) e Edge Computing. 
-  Construindo ERPs multi-tenant e integrando backends lógicos complexos com hardwares de alta precisão.
+  Engenheiro de Software especializado no ecossistema Java e Spring Boot. 
+  Focado na construção de APIs RESTful robustas, ERPs multi-tenant e lógicas de negócio complexas.
+  Entusiasta de Clean Code e princípios SOLID para criar sistemas escaláveis e de fácil manutenção.
 </p>
 
 <br/>
