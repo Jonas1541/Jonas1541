@@ -2,8 +2,11 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Adiciona um botão para podermos rodar manualmente agora
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,4 +19,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: radical
