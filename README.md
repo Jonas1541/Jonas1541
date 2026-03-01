@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Jonas! 👋</h1>
 
-<h3 align="center">Mid-Level Java Software Engineer | Focused on SOLID, low-overhead architecture and Edge Computing.</h3>
+<h3 align="center">Mid-Level Java Software Engineer | Building deterministic systems across all worldlines.</h3>
 
 <br/>
 
 <p align="center">
-  Construindo sistemas determinísticos, ERPs multi-tenant e integrações robustas entre backend lógicos e hardwares de ponta. Foco absoluto em performance, controle de recursos na JVM e clean code (sem excesso de mágica). 
+  Engenheiro de Software focado em arquitetura de baixo overhead (SOLID) e Edge Computing. 
+  Construindo ERPs multi-tenant e integrando backends lógicos complexos com hardwares de alta precisão.
 </p>
 
 <br/>
@@ -19,17 +20,10 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats & Languages</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jonas1541&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Jonas's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas1541&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" />
-  </a>
+  <img src="./profile-summary-cards-output/radical/0-profile-details.svg" alt="GitHub Stats" width="48%" />
+  <img src="./profile-summary-cards-output/radical/2-most-commit-language.svg" alt="Top Languages" width="48%" />
 </p>
 
 <br/>
@@ -42,4 +36,10 @@
   <a href="mailto:jonasdurau@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <small><i>El Psy Kongroo.</i> ⏳</small>
 </p>
